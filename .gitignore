@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+test-results/
+playwright-report/
+*.zip
+.env
+.env.*
+!.env.example
+.netlify/
+NETLIFY_DEPLOYMENT.json
+CONTENT_REVIEW.md
+VERIFICATION.md
